@@ -405,8 +405,8 @@
 
 ОЖИДАЕМЫЙ РЕЗУЛЬТАТ ОТ РАЗРАБОТЧИКА:
 {
-  "modified_files": ["файл1.py", "файл2.py"],
-  "new_files": ["test_file.py"],
+  "modified_files": ["файл1.dart", "файл2.dart"],
+  "new_files": ["test_file.dart"],
   "test_report": "путь/к/отчёту/test_report.md",
   "documentation_updated": true,
   "open_questions": ["вопрос 1"]

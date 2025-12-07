@@ -353,7 +353,7 @@
 
 #### 6.1. Backend
 
-**Язык программирования:** [Python / Java / Node.js / и т.д.]
+**Язык программирования:** [Dart / Java / Kotlin / Swift / и т.д.]
 
 **Фреймворк:** [Django / Spring Boot / Express / и т.д.]
 
